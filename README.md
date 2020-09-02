@@ -40,6 +40,19 @@ Stories written by partners based on this research included:
 * Welwyn Hatfield Times: [Over 90 per cent of Welwyn Hatfield landlords ‘unlawful and discriminatory’ to refuse housing benefit](https://www.whtimes.co.uk/news/no-dss-is-unlawful-but-still-used-in-welwyn-hatfield-1-6812793) *28 August 2020*
 * Liverpool Echo: [Majority of Merseyside landlords won't rent to people on benefits](https://www.liverpoolecho.co.uk/news/liverpool-news/majority-merseyside-landlords-wont-rent-18841226) *28 August 2020*
 * Peterborough Matters: [Why benefit claimants find it so hard to rent in Peterborough](https://www.peterboroughmatters.co.uk/local-news/why-benefit-claimants-find-it-so-hard-to-rent-in-peterborough-18123) *28 August 2020*
+* East London & West Essex Guardian: [London landlords refusing to rent to people on benefits](https://www.guardian-series.co.uk/news/18682326.london-landlords-discriminate-tenants-benefits/) *28 August 2020*
+* Watford Observer: [Many landlords in Watford refusing to rent to people on benefits](https://www.watfordobserver.co.uk/news/18677569.number-listings-hertfordshire-wont-take-people-benefits/) *28 August 2020*
+* Harrow Times: [Many landlords in Watford refusing to rent to people on benefits](https://www.harrowtimes.co.uk/watfordnews/18677569.number-listings-hertfordshire-wont-take-people-benefits/) *28 August 2020*
+* Gedling Eye: [Gedling borough landlords still won’t rent properties to benefits claimants](https://www.gedlingeye.co.uk/news/gedling-borough-landlords-still-wont-rent-properties-to-benefits-claimants/) *28 August 2020*
+* Epping Forest Guardian: [Most Epping Forest landlords banning benefit claimants (DSS)](https://www.eppingforestguardian.co.uk/news/18680870.epping-forest-landlords-blanket-banning-benefit-claimants/) *28 August 2020*
+* Sunderland Echo: [Renters on benefits in Sunderland are still being discriminated against, with landlords banning DSS despite law change](https://www.sunderlandecho.com/news/politics/renters-benefits-sunderland-are-still-being-discriminated-against-landlords-banning-dss-despite-law-change-2956704) *29 August 2020*
+* Wales: The Leader: [Benefits claimants facing discrimination when trying to rent](https://www.leaderlive.co.uk/news/18683917.benefits-claimants-facing-discrimination-trying-rent/) *30 August 2020*
+* News Shopper: [London landlords refusing to rent to people on benefits](https://www.newsshopper.co.uk/news/18687453.london-landlords-refusing-rent-people-benefits/) *31 August 2020*
+* Northumberland Gazette: [Renters on benefits in Northumberland are still being discriminated against, with landlords banning DSS despite law change](https://www.northumberlandgazette.co.uk/news/politics/renters-benefits-northumberland-are-still-being-discriminated-against-landlords-banning-dss-despite-law-change-2956703) *1 September 2020*
+* Dorset Echo: [Plans for Weymouth pub to be transformed into supported flats for ex-homeless](https://www.dorsetecho.co.uk/news/18688120.plans-weymouth-pub-transformed-supported-flats-ex-homeless/) *1 September 2020*
+* Nantwich News: [More than 80% OpenRent Cheshire East properties ban DSS](https://thenantwichnews.co.uk/2020/09/02/more-than-80-openrent-cheshire-east-properties-ban-dss/) *2 September 2020*
+* Cornish Times: [Housing benefit recipients still facing discrimination despite ruling](http://www.cornish-times.co.uk/article.cfm?id=127671&headline=Housing%20benefit%20recipients%20still%20facing%20discrimination%20despite%20ruling&sectionIs=news&searchyear=2020) *2 September 2020*
+
 
 
 ## Related repos
