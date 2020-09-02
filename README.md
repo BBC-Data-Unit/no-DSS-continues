@@ -61,7 +61,10 @@ Stories written by partners based on this research included:
 * Nantwich News: [More than 80% OpenRent Cheshire East properties ban DSS](https://thenantwichnews.co.uk/2020/09/02/more-than-80-openrent-cheshire-east-properties-ban-dss/) *2 September 2020*
 * Cornish Times: [Housing benefit recipients still facing discrimination despite ruling](http://www.cornish-times.co.uk/article.cfm?id=127671&headline=Housing%20benefit%20recipients%20still%20facing%20discrimination%20despite%20ruling&sectionIs=news&searchyear=2020) *2 September 2020*
 
+## Other usage
 
+* The Big Issue: [Landlords refuse benefit claimants despite Shelter court win](https://www.bigissue.com/latest/landlords-refuse-benefit-claimants-despite-shelter-court-win/) *28 August 2020*
+* The Independent: [Landlords still refusing to let to benefits claimants, despite court ban on discrimination](https://www.independent.co.uk/news/uk/home-news/landlords-renting-discrimination-benefit-claimants-openrent-no-dss-court-a9693816.html) *1 September 2020*
 
 ## Related repos
 
