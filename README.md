@@ -31,7 +31,8 @@ The data and background methodology released to partners is available here:
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
 Stories written by partners based on this research included:
 
-* 
+* Cornish Stuff: [Outdated, grossly unfair ‘No DSS’ bans have got to go](https://cornishstuff.com/2020/08/28/outdated-grossly-unfair-no-dss-bans-have-got-to-go/) *28 August 2020*
+
 
 ## Related repos
 
