@@ -1,5 +1,7 @@
 # Benefit claimants face landlord discrimination despite ruling
 
+![](https://ichef.bbci.co.uk/news/660/cpsprodpb/A250/production/_106025514_gettyimages-457202678-1.jpg)
+
 In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53821317) thousands of landlords were trying to avoid renting their properties to benefit claimants, despite a judge ruling a blanket ban was unlawful.
 
 About 75% of more than 9,000 listings on the website OpenRent said the landlords would not accept people on benefits.
