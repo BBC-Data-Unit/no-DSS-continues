@@ -61,7 +61,7 @@ Stories written by partners based on this research included:
 * Nantwich News: [More than 80% OpenRent Cheshire East properties ban DSS](https://thenantwichnews.co.uk/2020/09/02/more-than-80-openrent-cheshire-east-properties-ban-dss/) *2 September 2020*
 * Cornish Times: [Housing benefit recipients still facing discrimination despite ruling](http://www.cornish-times.co.uk/article.cfm?id=127671&headline=Housing%20benefit%20recipients%20still%20facing%20discrimination%20despite%20ruling&sectionIs=news&searchyear=2020) *2 September 2020*
 
-The story was also used by BBC Breakfast TV, the BBC News Channel, , BBC Radio 5 Live, BBC Money Box Live, You and Yours on BBC Radio 4, Newsbeat, BBC South Today, Midlands Today, BBC Radio London, BBC Radio York, BBC Radio Bristol, BBC Radio Tees, BBC Radio Sheffield, BBC Radio Humberside,BBC Radio Northampton and Radio Scotland.
+The story was also used by BBC South Today.
 
 ## Other usage
 
