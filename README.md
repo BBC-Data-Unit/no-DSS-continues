@@ -61,6 +61,7 @@ Stories written by partners based on this research included:
 * Dorset Echo: [Plans for Weymouth pub to be transformed into supported flats for ex-homeless](https://www.dorsetecho.co.uk/news/18688120.plans-weymouth-pub-transformed-supported-flats-ex-homeless/) *1 September 2020*
 * Nantwich News: [More than 80% OpenRent Cheshire East properties ban DSS](https://thenantwichnews.co.uk/2020/09/02/more-than-80-openrent-cheshire-east-properties-ban-dss/) *2 September 2020*
 * Cornish Times: [Housing benefit recipients still facing discrimination despite ruling](http://www.cornish-times.co.uk/article.cfm?id=127671&headline=Housing%20benefit%20recipients%20still%20facing%20discrimination%20despite%20ruling&sectionIs=news&searchyear=2020) *2 September 2020*
+* Northamptonshire Telegraph: [Housing benefit banned by majority of rental properties in Kettering and Wellingborough, despite being unlawful](https://www.northantstelegraph.co.uk/news/people/housing-benefit-banned-majority-rental-properties-kettering-and-wellingborough-despite-being-unlawful-2960950) *5 September 2020*
 
 The story was also used by BBC South Today.
 
