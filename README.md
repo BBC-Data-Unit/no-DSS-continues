@@ -69,6 +69,7 @@ The story was also used by BBC South Today.
 
 * The Big Issue: [Landlords refuse benefit claimants despite Shelter court win](https://www.bigissue.com/latest/landlords-refuse-benefit-claimants-despite-shelter-court-win/) *28 August 2020*
 * The Independent: [Landlords still refusing to let to benefits claimants, despite court ban on discrimination](https://www.independent.co.uk/news/uk/home-news/landlords-renting-discrimination-benefit-claimants-openrent-no-dss-court-a9693816.html) *1 September 2020*
+* In December the BBC Visual Journalism team [looked at the issue](https://www.bbc.co.uk/news/uk-55331081), too, finding "thousands of listings on [Zoopla and Rightmove] that seemed open to benefits claimants, where the same property advertised on OpenRent did exclude them."
 
 ## Related repos
 
