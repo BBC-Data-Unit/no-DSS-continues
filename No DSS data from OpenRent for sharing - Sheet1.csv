@@ -1,0 +1,285 @@
+Local authority,Number of listings,"Number which said ""DSS income accepted""",Number which allowed pets,Number which allowed smokers,Number which were student friendly,Number where families were allowed,"Percentage of listings which did not accept ""DSS""",Were renters who owned pets accepted more often than people claiming benefits?
+Wokingham,45,0,11,5,17,26,100%,TRUE
+Kingston upon Thames,28,0,3,8,17,11,100%,TRUE
+Kettering,20,0,7,6,9,11,100%,TRUE
+Tamworth,20,0,5,5,9,16,100%,TRUE
+Gosport,18,0,3,5,2,16,100%,TRUE
+Ceredigion,15,0,0,0,11,8,100%,FALSE
+Rushcliffe,14,0,3,5,7,9,100%,TRUE
+Leicester,11,0,2,2,5,10,100%,TRUE
+Cotswold,10,0,8,2,2,10,100%,TRUE
+East Staffordshire,9,0,5,0,1,9,100%,TRUE
+North Warwickshire,8,0,1,2,2,2,100%,TRUE
+Chelmsford,8,0,1,1,3,6,100%,TRUE
+South Derbyshire,7,0,2,2,2,7,100%,TRUE
+Rochford,6,0,3,1,2,4,100%,TRUE
+Maidstone,39,1,10,9,19,28,97%,TRUE
+Greenwich,38,1,8,9,30,21,97%,TRUE
+Croydon,30,1,4,17,23,23,97%,TRUE
+Woking,27,1,4,7,7,11,96%,TRUE
+Nottingham,26,1,4,7,19,12,96%,TRUE
+Spelthorne,21,1,5,5,12,13,95%,TRUE
+North Somerset,20,1,2,8,12,14,95%,TRUE
+North Kesteven,20,1,3,2,6,17,95%,TRUE
+Worcester,20,1,0,3,15,3,95%,FALSE
+Newport,20,1,5,5,3,11,95%,TRUE
+Tonbridge and Malling,59,3,13,4,26,47,95%,TRUE
+North Hertfordshire,18,1,6,3,5,12,94%,TRUE
+Central Bedfordshire,35,2,16,6,14,28,94%,TRUE
+Redbridge,52,3,10,19,37,28,94%,TRUE
+Medway,33,2,11,14,17,28,94%,TRUE
+Wyre Forest,16,1,3,2,12,9,94%,TRUE
+Charnwood,16,1,4,4,3,13,94%,TRUE
+Enfield,31,2,2,9,18,19,94%,FALSE
+Epsom and Ewell,14,1,1,1,4,9,93%,FALSE
+Oadby and Wigston,14,1,7,6,7,12,93%,TRUE
+Barnet,78,6,13,27,63,48,92%,TRUE
+Welwyn Hatfield,39,3,5,7,25,22,92%,TRUE
+Gwynedd,25,2,5,2,19,16,92%,TRUE
+South Cambridgeshire,25,2,7,4,8,19,92%,TRUE
+Bracknell Forest,25,2,3,13,12,10,92%,TRUE
+Sutton,61,5,9,13,23,38,92%,TRUE
+North West Leicestershire,12,1,3,3,3,11,92%,TRUE
+West Berkshire,23,2,2,3,7,13,91%,FALSE
+Runnymede,23,2,4,11,8,7,91%,TRUE
+Basildon,57,5,12,20,30,39,91%,TRUE
+Hounslow,22,2,7,14,13,14,91%,TRUE
+Tewkesbury,22,2,3,4,7,17,91%,TRUE
+Ipswich,11,1,1,4,2,4,91%,FALSE
+Mole Valley,42,4,8,8,14,28,90%,TRUE
+West Lancashire,21,2,4,1,9,13,90%,TRUE
+South Gloucestershire,62,6,8,11,26,30,90%,TRUE
+Swindon,20,2,1,1,8,11,90%,FALSE
+Brentwood,20,2,6,7,8,15,90%,TRUE
+Torbay,10,1,3,5,3,7,90%,TRUE
+Eastleigh,10,1,3,2,4,9,90%,TRUE
+Wiltshire,37,4,7,7,10,21,89%,TRUE
+Winchester,37,4,14,7,17,20,89%,TRUE
+Milton Keynes,146,16,47,36,69,113,89%,TRUE
+Bromley,73,8,13,28,43,48,89%,TRUE
+Plymouth,18,2,4,6,11,10,89%,TRUE
+Canterbury,18,2,2,3,5,9,89%,FALSE
+Folkestone and Hythe,35,4,8,3,14,23,89%,TRUE
+Richmond upon Thames,26,3,2,7,19,9,88%,FALSE
+Tower Hamlets,95,11,18,53,83,60,88%,TRUE
+Broxbourne,17,2,4,6,11,12,88%,TRUE
+Walsall,59,7,10,17,28,36,88%,TRUE
+Buckinghamshire,90,11,36,21,44,68,88%,TRUE
+Bexley,96,12,20,27,58,67,88%,TRUE
+Lambeth,88,11,23,28,61,57,88%,TRUE
+Surrey Heath,40,5,6,8,18,20,88%,TRUE
+Trafford,32,4,4,10,16,24,88%,FALSE
+Fareham,8,1,3,0,2,6,88%,TRUE
+South Kesteven,8,1,2,3,5,7,88%,TRUE
+City of London,8,1,0,1,5,3,88%,FALSE
+Sheffield,8,1,2,0,2,5,88%,TRUE
+South Northamptonshire,8,1,2,0,2,7,88%,TRUE
+Hambleton,8,1,3,0,1,8,88%,TRUE
+Wandsworth,127,16,29,46,82,75,87%,TRUE
+Sandwell,47,6,4,20,29,31,87%,FALSE
+"Bristol, City of",116,15,14,27,48,52,87%,FALSE
+Waltham Forest,69,9,21,35,50,39,87%,TRUE
+Derby,23,3,2,9,11,6,87%,FALSE
+Bath and North East Somerset,23,3,10,4,22,15,87%,TRUE
+Ealing,99,13,17,46,77,59,87%,TRUE
+Wrexham,38,5,6,18,16,21,87%,TRUE
+St. Helens,15,2,4,5,4,10,87%,TRUE
+Brent,148,20,31,61,126,78,86%,TRUE
+Rotherham,59,8,22,24,25,50,86%,TRUE
+Cherwell,50,7,7,12,26,32,86%,FALSE
+Wakefield,35,5,15,13,19,21,86%,TRUE
+West Suffolk,21,3,4,9,6,12,86%,TRUE
+Guildford,14,2,2,2,7,10,86%,FALSE
+Colchester,7,1,0,1,4,3,86%,FALSE
+Hastings,7,1,7,7,7,7,86%,TRUE
+Reading,7,1,0,2,6,4,86%,FALSE
+Lichfield,7,1,1,1,2,6,86%,FALSE
+South Somerset,41,6,13,15,19,25,85%,TRUE
+Birmingham,150,22,20,54,117,80,85%,FALSE
+Ashford,40,6,11,13,12,28,85%,TRUE
+Nuneaton and Bedworth,20,3,2,3,7,15,85%,FALSE
+Brighton and Hove,20,3,4,6,12,5,85%,TRUE
+Swansea,33,5,8,14,23,19,85%,TRUE
+Hillingdon,52,8,8,21,36,25,85%,FALSE
+Thurrock,58,9,13,22,30,48,84%,TRUE
+Camden,76,12,20,26,67,56,84%,TRUE
+Barking and Dagenham,38,6,9,17,29,29,84%,TRUE
+Denbighshire,19,3,4,4,8,13,84%,TRUE
+Epping Forest,25,4,6,7,18,20,84%,TRUE
+East Hertfordshire,37,6,2,5,16,24,84%,FALSE
+Leeds,66,11,14,15,30,52,83%,TRUE
+Torridge,18,3,3,0,9,11,83%,FALSE
+Three Rivers,18,3,5,6,9,12,83%,TRUE
+Isle of Anglesey,12,2,3,0,6,8,83%,TRUE
+Powys,12,2,3,2,4,6,83%,TRUE
+Horsham,6,1,3,2,1,5,83%,TRUE
+Hart,29,5,4,6,7,13,83%,FALSE
+Islington,52,9,15,17,41,28,83%,TRUE
+Bedford,23,4,6,11,17,13,83%,TRUE
+Coventry,40,7,5,15,28,29,83%,FALSE
+Dudley,17,3,2,9,11,5,82%,FALSE
+Windsor and Maidenhead,28,5,6,6,12,17,82%,TRUE
+East Suffolk,22,4,10,5,6,14,82%,TRUE
+West Oxfordshire,22,4,7,3,12,17,82%,TRUE
+Watford,22,4,3,13,16,11,82%,FALSE
+Havant,11,2,0,2,2,7,82%,FALSE
+Merton,38,7,6,14,23,16,82%,FALSE
+Aberdeenshire,27,5,7,9,15,22,81%,TRUE
+Cheshire East,75,14,23,23,29,48,81%,TRUE
+Broxtowe,32,6,7,6,15,27,81%,TRUE
+Perth and Kinross,16,3,12,3,9,16,81%,TRUE
+South Lakeland,16,3,1,1,8,6,81%,FALSE
+East Hampshire,37,7,14,5,17,28,81%,TRUE
+Swale,21,4,17,12,7,18,81%,TRUE
+Dacorum,52,10,17,18,30,42,81%,TRUE
+Sevenoaks,26,5,8,6,5,18,81%,TRUE
+Cheshire West and Chester,67,13,12,24,37,32,81%,FALSE
+Hammersmith and Fulham,41,8,11,14,35,28,80%,TRUE
+Worthing,35,7,7,7,17,23,80%,FALSE
+Peterborough,35,7,8,14,17,23,80%,TRUE
+Arun,30,6,9,5,15,23,80%,TRUE
+Haringey,20,4,9,8,13,15,80%,TRUE
+York,20,4,4,4,16,13,80%,FALSE
+Southend-on-Sea,20,4,2,6,12,8,80%,FALSE
+Barrow-in-Furness,20,4,10,6,12,16,80%,TRUE
+Warrington,58,12,13,16,22,41,79%,TRUE
+Belfast,19,4,1,3,14,12,79%,FALSE
+Burnley,19,4,4,6,11,17,79%,FALSE
+Caerphilly,28,6,5,4,11,18,79%,FALSE
+Doncaster,97,21,34,38,54,79,78%,TRUE
+Harrow,46,10,6,27,37,27,78%,FALSE
+Copeland,23,5,4,11,17,15,78%,FALSE
+Warwick,23,5,4,7,16,13,78%,FALSE
+Tameside,55,12,11,21,28,32,78%,FALSE
+Wolverhampton,45,10,6,15,33,27,78%,FALSE
+Allerdale,27,6,7,6,19,24,78%,TRUE
+West Lothian,9,2,1,1,4,6,78%,FALSE
+Dover,9,2,4,1,4,8,78%,TRUE
+Lincoln,22,5,3,10,21,8,77%,FALSE
+Sefton,65,15,9,13,22,50,77%,FALSE
+Redditch,26,6,8,6,12,24,77%,TRUE
+Huntingdonshire,30,7,9,5,11,25,77%,TRUE
+Tandridge,17,4,5,5,11,12,76%,TRUE
+Gedling,17,4,3,9,10,11,76%,FALSE
+Thanet,37,9,9,12,16,25,76%,FALSE
+Manchester,110,27,18,43,77,72,75%,FALSE
+Newcastle upon Tyne,64,16,11,18,52,49,75%,FALSE
+Newcastle-under-Lyme,32,8,11,15,21,17,75%,TRUE
+Rother,32,8,14,10,13,21,75%,TRUE
+Stockport,20,5,4,5,12,13,75%,FALSE
+Halton,20,5,4,11,8,4,75%,FALSE
+Reigate and Banstead,16,4,7,4,9,16,75%,TRUE
+Somerset West and Taunton,12,3,4,0,3,9,75%,TRUE
+Bromsgrove,8,2,4,2,5,5,75%,TRUE
+Braintree,43,11,14,11,16,37,74%,TRUE
+Conwy,39,10,9,9,13,26,74%,FALSE
+Eastbourne,19,5,4,10,14,7,74%,FALSE
+Dorset,49,13,12,13,18,27,73%,FALSE
+Test Valley,30,8,7,7,16,16,73%,FALSE
+Knowsley,15,4,5,7,9,9,73%,TRUE
+Elmbridge,37,10,12,13,18,30,73%,TRUE
+Westminster,93,26,33,35,90,69,72%,TRUE
+Monmouthshire,7,2,0,0,2,5,71%,FALSE
+Blaby,7,2,3,2,5,6,71%,TRUE
+Cardiff,7,2,3,2,4,6,71%,TRUE
+Stoke-on-Trent,24,7,7,14,20,15,71%,FALSE
+Cornwall,37,11,12,16,28,23,70%,TRUE
+North Tyneside,80,24,38,25,39,71,70%,TRUE
+Wellingborough,20,6,4,10,11,15,70%,FALSE
+South Holland,20,6,5,11,11,14,70%,FALSE
+South Norfolk,20,6,6,4,5,15,70%,FALSE
+Fife,23,7,5,5,17,20,70%,FALSE
+Erewash,13,4,3,7,10,11,69%,FALSE
+Preston,38,12,6,16,32,21,68%,FALSE
+Lewisham,19,6,3,9,16,12,68%,FALSE
+Angus,19,6,5,4,19,18,68%,FALSE
+Bolton,37,12,10,17,23,24,68%,FALSE
+Newham,40,13,7,20,31,28,68%,FALSE
+"Kingston upon Hull, City of",36,12,8,6,18,24,67%,FALSE
+Chorley,18,6,3,1,7,14,67%,FALSE
+Bridgend,18,6,3,4,10,12,67%,FALSE
+Stratford-on-Avon,18,6,6,4,3,11,67%,FALSE
+Scarborough,15,5,7,2,6,12,67%,TRUE
+East Dunbartonshire,15,5,7,5,5,13,67%,TRUE
+Flintshire,12,4,2,3,7,10,67%,FALSE
+North Devon,12,4,1,1,9,7,67%,FALSE
+Midlothian,9,3,3,3,8,7,67%,FALSE
+Vale of Glamorgan,6,2,3,1,1,3,67%,TRUE
+East Riding of Yorkshire,78,27,17,22,37,58,65%,FALSE
+Southwark,26,9,6,9,21,19,65%,FALSE
+"Bournemouth, Christchurch and Poole",40,14,7,15,28,24,65%,FALSE
+Hertsmere,20,7,1,8,15,15,65%,FALSE
+Liverpool,154,55,38,57,110,88,64%,FALSE
+Dundee City,14,5,2,1,11,11,64%,FALSE
+Hinckley and Bosworth,14,5,4,6,7,11,64%,FALSE
+Stirling,25,9,12,8,19,21,64%,TRUE
+Waverley,22,8,9,3,10,16,64%,TRUE
+Carmarthenshire,11,4,3,0,8,9,64%,FALSE
+Crawley,38,14,10,25,23,22,63%,FALSE
+Calderdale,19,7,8,7,9,17,63%,TRUE
+Aberdeen City,64,24,25,15,62,55,63%,TRUE
+Barnsley,63,24,25,33,39,47,62%,TRUE
+Chesterfield,21,8,6,8,10,18,62%,FALSE
+Staffordshire Moorlands,13,5,7,5,1,13,62%,TRUE
+Vale of White Horse,31,12,11,10,16,18,61%,FALSE
+Ashfield,18,7,4,5,11,16,61%,FALSE
+Telford and Wrekin,18,7,2,5,3,13,61%,FALSE
+Amber Valley,33,13,14,12,15,29,61%,TRUE
+Bury,20,8,3,8,12,13,60%,FALSE
+Basingstoke and Deane,20,8,5,10,10,15,60%,FALSE
+Shropshire,10,4,5,6,5,8,60%,TRUE
+Rushmoor,37,15,6,12,16,12,59%,FALSE
+Salford,56,23,18,23,23,36,59%,FALSE
+Fenland,24,10,7,10,18,19,58%,FALSE
+City of Edinburgh,12,5,3,2,9,9,58%,FALSE
+Kirklees,76,32,23,47,57,62,58%,FALSE
+Glasgow City,45,19,17,21,36,43,58%,FALSE
+Castle Point,7,3,0,0,3,5,57%,FALSE
+Merthyr Tydfil,7,3,3,2,2,7,57%,FALSE
+Rhondda Cynon Taf,41,18,19,19,19,35,56%,TRUE
+Clackmannanshire,25,11,13,6,20,22,56%,TRUE
+Forest of Dean,25,11,16,16,10,19,56%,TRUE
+South Lanarkshire,45,20,15,14,30,43,56%,FALSE
+Gateshead,27,12,8,7,18,24,56%,FALSE
+Wigan,87,39,28,42,44,69,55%,FALSE
+North Lincolnshire,11,5,7,6,7,11,55%,TRUE
+Pendle,28,13,7,14,17,24,54%,FALSE
+Falkirk,32,15,19,15,26,30,53%,TRUE
+Middlesbrough,17,8,4,7,17,7,53%,FALSE
+Breckland,17,8,5,6,6,13,53%,FALSE
+Bradford,97,46,28,43,64,76,53%,FALSE
+Wirral,69,33,21,18,36,56,52%,FALSE
+Neath Port Talbot,34,17,15,14,21,26,50%,FALSE
+Mansfield,14,7,8,7,6,14,50%,TRUE
+Renfrewshire,10,5,3,4,9,8,50%,FALSE
+South Oxfordshire,10,5,4,3,5,9,50%,FALSE
+East Renfrewshire,8,4,5,2,5,7,50%,TRUE
+Bassetlaw,31,16,7,25,7,11,48%,FALSE
+Bolsover,21,11,6,14,9,16,48%,FALSE
+South Ribble,36,19,10,15,23,30,47%,FALSE
+Blackburn with Darwen,18,10,4,7,12,14,44%,FALSE
+East Devon,16,9,8,9,10,12,44%,FALSE
+Sunderland,19,11,11,11,10,14,42%,FALSE
+Isle of Wight,12,7,5,3,9,11,42%,FALSE
+Northumberland,53,31,30,26,35,47,42%,FALSE
+North Lanarkshire,68,40,38,31,50,65,41%,FALSE
+West Dunbartonshire,37,22,20,16,30,36,41%,FALSE
+Stockton-on-Tees,39,24,16,10,31,35,38%,FALSE
+Rossendale,22,14,5,6,7,21,36%,FALSE
+Blaenau Gwent,11,7,6,5,7,11,36%,FALSE
+South Ayrshire,20,13,9,8,18,17,35%,FALSE
+Hyndburn,18,12,6,7,12,18,33%,FALSE
+Newark and Sherwood,6,4,3,2,3,6,33%,FALSE
+County Durham,101,68,72,56,68,91,33%,TRUE
+Fylde,28,21,21,18,17,28,25%,FALSE
+North Ayrshire,16,12,10,7,11,15,25%,FALSE
+South Tyneside,9,7,6,8,5,5,22%,FALSE
+Blackpool,37,29,11,13,11,26,22%,FALSE
+Inverclyde,10,8,7,8,7,10,20%,FALSE
+East Lindsey,6,5,1,3,3,2,17%,FALSE
+Stafford,10,10,10,10,10,10,0%,FALSE
+Argyll and Bute,7,7,6,0,6,7,0%,FALSE
+Grand Total,9130,2199,2460,3065,5267,6277,76%,TRUE
+,,,,,,,,
+*Areas with fewer than 5 listings each were excluded from the breakdown but not from the totals,,,,,,,,
+**Data correct as at 5 August,,,,,,,,
